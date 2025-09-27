@@ -50,16 +50,12 @@
 - Created mass maps of astronomical images using gravitational lensing software  
 - Investigated correlations in dark matter distributions with statistical modeling  
 
-**Sandwich Artist — Subway** (2023–2025)  
-- Managed store operations across multiple locations, processing **$1000+ daily**  
-- Trained and supervised new hires  
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haydenkaras&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenkaras&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DTYoda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTYoda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
 </p>
 
 ---
