@@ -23,14 +23,19 @@
 ---
 
 ## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
 <p align="center">
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cs,bash" />
-  <br/>
-  <!-- Frameworks/Tools -->
+</p>
+
+### ⚙️ Frameworks & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,prisma,express,postgres,git,linux" />
-  <br/>
-  <!-- Cloud/Hosting -->
+</p>
+
+### ☁️ Cloud & Hosting
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,supabase,gcp" />
 </p>
 
