@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Hayden%20Karas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,100:ff944d&height=200&section=header&text=Hayden%20Karas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&font=Fira%20Code" />
 </p>
 
 ---
@@ -60,11 +60,11 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DTYoda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DTYoda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,100:ff944d&height=100&section=footer"/>
 </p>
 
 ---
-
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2a5298&width=200&lines=Hayden+Karas;Computer+Science;Carnegie+Mellon+University;Programmer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer"/>
 </p>
