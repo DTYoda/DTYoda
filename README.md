@@ -65,6 +65,6 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff6600&width=200&lines=Hayden+Karas;Computer+Science;Carnegie+Mellon+University;Programmer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff6600&width=200&lines=Hayden+Karas;Computer+Science;Carnegie+Mellon;Programmer" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,100:ff944d&height=100&section=footer"/>
 </p>
